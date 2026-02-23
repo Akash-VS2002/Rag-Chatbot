@@ -1,0 +1,10 @@
+langchain-community
+pypdf
+yt-dlp #Used to download audio from YouTube videos
+pydub #Used for audio processing
+faster-whisper #Used for speech-to-text
+langchain-text-splitters
+chromadb
+langchain-groq
+langgraph
+flask
